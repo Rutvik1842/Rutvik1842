@@ -16,8 +16,6 @@ const Stack = createStackNavigator<RootStackParamList>();
 const App : FC=()=>{ 
 
   return (
-
-    
     <NavigationContainer>
       <Stack.Navigator>
       {/* <Stack.Screen name="Login" component={login} /> */}
