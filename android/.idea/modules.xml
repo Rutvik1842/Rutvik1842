@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TsApp.iml" filepath="$PROJECT_DIR$/.idea/modules/TsApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TsApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TsApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-796420002/TsApp.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-796420002/TsApp.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1560649698/TsApp.react-native-firebase_database.iml" filepath="$PROJECT_DIR$/.idea/modules/-1560649698/TsApp.react-native-firebase_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1619144760/TsApp.react-native-firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1619144760/TsApp.react-native-firebase_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1243684539/TsApp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1243684539/TsApp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1199641426/TsApp.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1199641426/TsApp.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1831302244/TsApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1831302244/TsApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1802649980/TsApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1802649980/TsApp.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>

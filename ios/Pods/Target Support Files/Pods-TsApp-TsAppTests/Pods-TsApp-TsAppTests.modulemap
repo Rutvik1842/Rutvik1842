@@ -1,0 +1,6 @@
+module Pods_TsApp_TsAppTests {
+  umbrella header "Pods-TsApp-TsAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
