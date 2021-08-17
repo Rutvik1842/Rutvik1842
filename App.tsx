@@ -13,7 +13,7 @@ import {RootStackParamList} from './RootStackPrams'
 
 const Stack = createStackNavigator<RootStackParamList>();
 
-const App : FC=()=>{
+const App : FC=()=>{ 
 
   return (
     <NavigationContainer>
