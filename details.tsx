@@ -121,6 +121,7 @@ const details: FC = () => {
 
   return (
     <SafeAreaView>
+      <Text> hello rutvik</Text>
 
       <FlatList style={{ margin: 10 }}
         scrollEnabled={true}
